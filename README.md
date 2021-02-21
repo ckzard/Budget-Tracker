@@ -18,7 +18,6 @@
   * [License](#license)
   * [Contributing](#contributing)
   * [Questions](#questions)
-  and so forth
 
   ## Installation:
   npm install
